@@ -12,6 +12,6 @@ A new Flutter project.
 
 ### Project Showcase:
 
-<video src="https://github.com/AppleStalker/flutter_timer/blob/main/assets/vid.webm" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/AppleStalker/flutter_timer/blob/fbc4ce05a2ba6deab1f21f4b48c579778f11e730/assets/vid.webm" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
